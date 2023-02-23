@@ -5,8 +5,8 @@ import logo from "./Assets/background.jpg";
 function App() {
   return (
     <div style={styles.home}>
-      <Home />
-      <img style={styles.container} />
+      {/* <Home /> */}
+      {/* <img style={styles.container} /> */}
     </div>
   );
 }
